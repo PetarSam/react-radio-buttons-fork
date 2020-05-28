@@ -1,29 +1,5 @@
 {
-  "_from": "react-radio-buttons",
-  "_id": "react-radio-buttons@1.2.2",
-  "_inBundle": false,
-  "_integrity": "sha512-GPk8gLEdOoC/41NQ3CrkAQv8jZSo2BojvEszQqS/16XTICe8a+H2EyOk3qJQLHzLe7+YABzyjZoZAOeeQ1QFxA==",
-  "_location": "/react-radio-buttons",
-  "_phantomChildren": {
-    "create-react-class": "15.6.3",
-    "fbjs": "0.8.17",
-    "loose-envify": "1.4.0",
-    "object-assign": "4.1.1",
-    "prop-types": "15.7.2"
-  },
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-radio-buttons",
-    "name": "react-radio-buttons",
-    "escapedName": "react-radio-buttons",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "bugs": {
-    "url": "https://github.com/mu29/react-radio-buttons/issues"
-  },
+
   "bundleDependencies": false,
   "dependencies": {
     "prop-types": "^15.5.10",
